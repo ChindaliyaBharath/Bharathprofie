@@ -5,3 +5,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://ChindaliyaBharath:edurekatoken@github.com/ChindaliyaBharath/Bharathprofie.git
 git push -u origin main
+
+
+
+//next all time from same folder
+git add .
+git commit -m "first commit"
+git push
